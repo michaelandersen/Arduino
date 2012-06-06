@@ -1,5 +1,4 @@
 
-
 /*
  Heating system prototype v0.1
  */
@@ -13,8 +12,8 @@
 
 #define NIMBITS_ENABLED 1
 #define NIMBITS_VERBOSE 1
-#define NIMBITS_ACCOUNT "michael.andersen@gmail.com"
-#define NIMBITS_SECRET_KEY "1d7db75c-268a-40c3-b99d-4045bdbd9f01"
+#define NIMBITS_ACCOUNT ""
+#define NIMBITS_SECRET_KEY ""
 
 String email = String(NIMBITS_ACCOUNT);
 String secretkey = String(NIMBITS_SECRET_KEY);
